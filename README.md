@@ -2,7 +2,7 @@
 
 # Sheila Lisbeth Ordóñez Quimí
 
-**Gestión estratégica educativa | Calidad y excelencia institucional | Analítica de datos**
+**Gestión Estratégica Educativa | Calidad y Excelencia Institucional | Analítica de Datos**
 
 Guayaquil, Ecuador
 
