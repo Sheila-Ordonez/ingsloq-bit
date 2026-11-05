@@ -49,24 +49,23 @@ mediante procesos claros, decisiones basadas en datos y modelos de excelencia.
 **Coordinadora de Planificación Estratégica**  
 Noviembre de 2014 - Actualidad
 
-- Contribuí al diseño y actualización del plan estratégico institucional,
-  vinculando objetivos con acciones e indicadores de seguimiento.
-- Elaboré análisis cuantitativos y cualitativos para apoyar decisiones
-  de la Dirección General y las jefaturas departamentales.
-- Revisé y validé la información reportada por los responsables
-  de objetivos para dar consistencia al seguimiento estratégico.
-- Identifiqué oportunidades de mejora mediante auditorías internas
-  del sistema de gestión de calidad, actividad que desempeño desde **2015**.
-- Contribuí a la actualización de procedimientos institucionales,
-  clarificando actividades, responsabilidades y mecanismos de control.
-- Coordiné y participé en proyectos estratégicos con distintas áreas,
-  dando seguimiento a actividades y compromisos.
+•	Participo en el diseño, actualización y seguimiento del plan estratégico institucional, en coordinación con directivos y responsables de objetivos.
+•	Desarrollo indicadores de gestión y valido la coherencia de la información reportada para el seguimiento de metas estratégicas.
+•	Elaboro análisis cuantitativos y cualitativos para apoyar la toma de decisiones del Director General y de los jefes departamentales.
+•	Analizo cambios del entorno político, económico, legal y ambiental y su impacto en las operaciones institucionales.
+•	Coordino y participo en proyectos estratégicos y acciones de mejora de procesos educativos y administrativos.
+•	Realizo auditorías internas del sistema de gestión de calidad desde 2015 y colaboro en la implementación de estándares y modelos de excelencia.
+
 
 **Resultados cuantificables por documentar**
 
-- Procedimientos actualizados o mejorados: [COMPLETAR].
-- Proyectos coordinados y resultados alcanzados: [COMPLETAR].
-- Auditorías realizadas y porcentaje de cierre de hallazgos: [COMPLETAR].
+•	Participé en la formulación y actualización del plan estratégico 2021–2024, alineado con EFQM 2020 e incorporando herramientas de Océano Azul, revisión de identidad institucional y análisis de experiencia del cliente.
+•	Realicé seguimiento y evaluación de un plan que, en 2022–2023, comprendió 4 líneas estratégicas, 12 objetivos estratégicos, 39 objetivos operativos y 52 indicadores, identificando desviaciones y oportunidades de mejora.
+•	Coordiné el seguimiento de la mejora de experiencia en admisión y matriculación, con resultados de NPS superiores a la meta de 90 durante tres periodos consecutivos: 91, 99 y 96,51.
+•	Contribuí al fortalecimiento del Sistema de Gestión de Indicadores mediante tableros de seguimiento, comparativos históricos y mejoras en la consulta de información; el sistema alcanzó un NPS interno de 90 en 2024–2025.
+•	Participé en el seguimiento estratégico de proyectos de innovación educativa —EMAT, Innovamat y Cambridge One— y de mejoras derivadas de la autoevaluación EFQM, analizando indicadores de implementación, rendimiento y percepción.
+
+
 
 ### Grupo Educativo ANAI
 
@@ -79,7 +78,7 @@ Marzo de 2007 - Octubre de 2014
   junto con la Dirección de Nivel.
 - Supervisé actividades del personal docente y de inspección,
   y el cumplimiento de políticas institucionales.
-- Alcance de la gestión y mejoras verificables: [COMPLETAR].
+.
 
 ### Tecnológico AITEC
 
@@ -89,7 +88,7 @@ Abril de 2007 - Marzo de 2014
 - Diseñé e impartí asignaturas del área de administración de empresas.
 - Evalué el rendimiento académico y di seguimiento al aprendizaje
   de los estudiantes.
-- Asignaturas, número de estudiantes y resultados destacados: [COMPLETAR].
+- Asignaturas, número de estudiantes y resultados destacados: .
 
 ### Evaluación internacional EFQM
 
@@ -100,7 +99,7 @@ Desde 2024
   **Ecuador y Perú** para reconocimientos EFQM.
 - Analicé evidencias y contribuí a identificar fortalezas
   y áreas de mejora de la gestión institucional.
-- Instituciones, fechas y alcance publicable de las evaluaciones: [COMPLETAR].
+.
 
 ---
 
@@ -119,8 +118,7 @@ Proyecto formativo de preparación y análisis de información educativa.
   con gráficos para explorar indicadores.
 - Organicé un dashboard con indicadores y segmentadores.
 - **Tecnologías:** Excel, Power Query y Power Pivot.
-- **Repositorio:** [COMPLETAR].
-- **Demo o capturas:** [COMPLETAR].
+
 
 ### Tablero de evaluación diagnóstica
 
@@ -134,8 +132,7 @@ de **7.º y 10.º de Educación General Básica**.
 - Orienté el tablero a la identificación de hallazgos
   que apoyen decisiones educativas.
 - **Tecnologías:** Power BI.
-- **Repositorio:** [COMPLETAR].
-- **Demo o capturas:** [COMPLETAR].
+
 
 ### Análisis de ventas de Comercial Andina
 
@@ -146,8 +143,7 @@ Proyecto formativo de análisis de ventas semanales por sucursal.
 - Organicé series temporales para comparar la evolución de ventas.
 - Documenté hallazgos y su utilidad para la toma de decisiones.
 - **Tecnologías:** Python, pandas y Google Colab.
-- **Repositorio:** [COMPLETAR].
-- **Cuaderno o demo:** [COMPLETAR].
+
 
 ---
 
@@ -196,12 +192,12 @@ Herramientas utilizadas en formación y proyectos aplicados:
 ### Universidad Técnica Particular de Loja
 
 **Maestría en Gerencia y Liderazgo Educativo**  
-Fecha de graduación: [COMPLETAR].
+Fecha de graduación: Abril 2018].
 
 ### Universidad de Guayaquil
 
 **Ingeniería en Sistemas Administrativos Computarizados**  
-Fecha de graduación: [COMPLETAR].
+Fecha de graduación: Marzo 2007
 
 ---
 
@@ -213,19 +209,17 @@ Fecha de graduación: [COMPLETAR].
   - Formación: Auditor Líder ISO 9001:2015.
   - Institución formadora: SGS Ecuador.
   - Año de formación: **2023**.
-  - Identificador o enlace de credencial: [COMPLETAR].
+ 
 
 - **EFQM Certified Assessor**
   - Formación: Qualified Assessor Training.
   - Institución formadora: CODEFE.
   - Año: **2024**.
-  - Versión del modelo y enlace de credencial: [COMPLETAR].
+
 
 - **Microsoft Elevate Educator Expert**
   - Organización: Microsoft.
-  - Periodo de reconocimiento: [COMPLETAR].
-  - Enlace de credencial: [COMPLETAR].
-
+  
 ### Formación complementaria
 
 - **Global Female Empowerment** — Mejoremos Academy,
@@ -241,15 +235,14 @@ Fecha de graduación: [COMPLETAR].
   Universidad Hemisferios, **2020**.
 - **Formación en análisis de datos** —
   Excel, Power Query, Power Pivot, Power BI, SQL y Python.
-  Institución, fechas y estado: [COMPLETAR].
+
 
 ---
 
 ## Idiomas
 
-- **Español:** [COMPLETAR NIVEL].
+- **Español:** Nativo
 - **Inglés:** intermedio.
-  Nivel certificado o referencia MCER: [COMPLETAR].
 
 ---
 
@@ -270,5 +263,4 @@ que integren estrategia, calidad y analítica de datos.
 
 - **Email:** [ing.sloq@gmail.com](mailto:ing.sloq@gmail.com)
 - **LinkedIn:** [Sheila Ordóñez Quimí](https://www.linkedin.com/in/sheila-ord%C3%B3%C3%B1ez-quim%C3%AD-1b12b772/)
-- **GitHub:** [COMPLETAR]
-- **Portafolio:** [COMPLETAR]
+
