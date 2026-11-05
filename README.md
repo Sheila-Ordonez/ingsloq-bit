@@ -8,7 +8,6 @@ Guayaquil, Ecuador
 
 [Email](mailto:ing.sloq@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/sheila-ord%C3%B3%C3%B1ez-quim%C3%AD-1b12b772/) ·
-GitHub: [COMPLETAR] · Portafolio: [COMPLETAR]
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logoColor=white)
